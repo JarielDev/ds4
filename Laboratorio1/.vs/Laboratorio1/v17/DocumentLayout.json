@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\josea\\source\\repos\\ds4\\Laboratorio1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C96E613B-C69C-4C46-AA85-A7F5EA51D1CD}|Laboratorio1\\Laboratorio1.csproj|c:\\users\\josea\\source\\repos\\ds4\\laboratorio1\\laboratorio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C96E613B-C69C-4C46-AA85-A7F5EA51D1CD}|Laboratorio1\\Laboratorio1.csproj|solutionrelative:laboratorio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C96E613B-C69C-4C46-AA85-A7F5EA51D1CD}|Laboratorio1\\Laboratorio1.csproj|c:\\users\\josea\\source\\repos\\ds4\\laboratorio1\\laboratorio1\\.gitignore||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C96E613B-C69C-4C46-AA85-A7F5EA51D1CD}|Laboratorio1\\Laboratorio1.csproj|solutionrelative:laboratorio1\\.gitignore||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C96E613B-C69C-4C46-AA85-A7F5EA51D1CD}|Laboratorio1\\Laboratorio1.csproj|c:\\users\\josea\\source\\repos\\ds4\\laboratorio1\\laboratorio1\\.gitignore.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{C96E613B-C69C-4C46-AA85-A7F5EA51D1CD}|Laboratorio1\\Laboratorio1.csproj|solutionrelative:laboratorio1\\.gitignore.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{C96E613B-C69C-4C46-AA85-A7F5EA51D1CD}|Laboratorio1\\Laboratorio1.csproj|c:\\users\\josea\\source\\repos\\ds4\\laboratorio1\\laboratorio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96E613B-C69C-4C46-AA85-A7F5EA51D1CD}|Laboratorio1\\Laboratorio1.csproj|solutionrelative:laboratorio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,7 +26,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\josea\\source\\repos\\ds4\\Laboratorio1\\Laboratorio1\\Program.cs",
               "RelativeDocumentMoniker": "Laboratorio1\\Program.cs",
@@ -39,14 +39,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": ".gitignore.txt",
-              "DocumentMoniker": "C:\\Users\\josea\\source\\repos\\ds4\\Laboratorio1\\Laboratorio1\\.gitignore.txt",
-              "RelativeDocumentMoniker": "Laboratorio1\\.gitignore.txt",
-              "ToolTip": "C:\\Users\\josea\\source\\repos\\ds4\\Laboratorio1\\Laboratorio1\\.gitignore.txt",
-              "RelativeToolTip": "Laboratorio1\\.gitignore.txt",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAiwAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\josea\\source\\repos\\ds4\\Laboratorio1\\Laboratorio1\\.gitignore",
+              "RelativeDocumentMoniker": "Laboratorio1\\.gitignore",
+              "ToolTip": "C:\\Users\\josea\\source\\repos\\ds4\\Laboratorio1\\Laboratorio1\\.gitignore",
+              "RelativeToolTip": "Laboratorio1\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-09-10T05:11:27.97Z",
               "EditorCaption": ""
             },
